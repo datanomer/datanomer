@@ -1,6 +1,6 @@
 ### Welcome to my github page!
 
-![picture](gentoo.jpeg)
+![picture](penguin.jpg)
 
 I am currently trying to learn Rust
 and i like to tinker with random hardware and software.
