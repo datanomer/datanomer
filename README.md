@@ -1,6 +1,5 @@
 ### Welcome to my github page!
 
-I am currently trying to learn to program in C++
-and i like to tinker with random hardware and software.
-
-
+I like to blow up and tinker random hardware and software and sometimes I make my own.
+Languages I work with: ASM(nasm), C++, C
+ 
